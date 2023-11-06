@@ -1,2 +1,2 @@
 # Codsoft-projects
-Repository for internship projects for CODSOFT
+Repository for Internship Projects for CODSOFT
