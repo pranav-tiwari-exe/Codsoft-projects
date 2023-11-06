@@ -16,14 +16,14 @@ def print_password():
 
 window=Tk()
 window.title("Password Generator:")
-window.geometry('400x200+600+350')
+window.geometry('450x200+600+350')
 window.resizable(width=False,height=True)
 window.configure(bg="white")
 
 
 var_1=IntVar()
 
-l_1=Label(window,text="PASSWORD GENERATION TOOL",font=("arial bold",15),bg="white").pack()
+l_1=Label(window,text="PASSWORD GENERATION TOOL",font=("System",18),bg="white").pack()
 
 l_=Label(window,text="\nEnter Password Length\n",font=("arial bold",10),bg="white").pack()
 
